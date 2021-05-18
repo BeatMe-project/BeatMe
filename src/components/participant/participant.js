@@ -7,6 +7,7 @@ const participant=()=>{
     return(
         <div>
             <h3>Welcome {x.UserName}</h3>
+        </div>
     )
 }
 export default participant;
