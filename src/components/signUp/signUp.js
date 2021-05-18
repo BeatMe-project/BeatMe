@@ -24,7 +24,7 @@ const SignUp=()=>{
       <div>
           <NavBar></NavBar>
           <form>
-          <br/> <br/>
+          <br/> <br/><br/>
               <label required>שם משפחה</label>
               <input type="text" ></input><br/>
               <label>שם פרטי</label>
