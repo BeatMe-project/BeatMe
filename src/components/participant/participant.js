@@ -6,7 +6,7 @@ const participant=()=>{
 
     return(
         <div>
-            <h3>Welcome {x.UserName}</h3>
+            <h3> Welcome {x.UserName}</h3>
         </div>
     )
 }
